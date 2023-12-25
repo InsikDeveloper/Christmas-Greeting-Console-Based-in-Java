@@ -1,0 +1,316 @@
+
+public class Main {
+    public static void main(String[] args)throws InterruptedException {
+        String a = "                       []        []   [][][][]   [][][][]     [][][][]     []    [] " ;
+        String b = "                       [] []  [] []   []         []     []    []     []    []    [] ";
+        String c = "                       []   []   []   [][][][]   [][][][]     [][][][]     [][][][]";
+        String d = "                       []        []   []         []     []    []     []          [] ";
+        String e = "                       []        []   [][][][]   []      []   []      []   [][][][] ";
+
+
+        String f ="   [][][][]  []    []  [][][][]    [][][][][]  [][][][]  [][][][][]  []        []  [][][][]  [][][][]";
+        String g ="   []        []    []  []     []       []      []            []      [] []  [] []        []  []" ;
+        String h ="   []        [][][][]  [][][][]        []      [][][][]      []      []   []   []  [][][][]  [][][][]";
+        String i ="   []        []    []  []     []       []            []      []      []        []  []    []        [] ";
+        String j ="   [][][][]  []    []  []      []  [][][][][]  [][][][]      []      []        []  [][][][]  [][][][]";
+
+
+
+        String k ="                                                       ★  " ;
+        String m="                                                    ★ ☆ ★" ;
+        String o ="                                                     ★  ★" ;
+        String p ="                                                       * ";
+        String q = "                                                      *** ";
+        String r = "                                                    **🔴**";
+        String s = "                                                  ******🔴***";
+        String t = "                                                 **🔵***★***🔴* ";
+        String u = "                                                **🔴****🔵****** ";
+        String v = "                                               ***★****🔴*****🔴*";
+        String w = "                                              ****🔵***★**🔵****★";
+        String x = "                                               ***★★********🔴**";
+        String y = "                                              **🔴********★**★*** ";
+        String z = "                                              *★★*******🔵********★ ";
+        String aa = "                                           ******★**********★******";
+        String bb = "                                          ****🔵*************🔴*****";
+        String cc = "                                         **★*********🔵★*************";
+        String dd = "                                        ******★*******★*******★★*🔵**";
+        String ee = "                                       **************🔴*****************";
+        String ff = "                                      ***🔴*****************★******🔵****";
+        String gg = "                                     *******★******★**********************";
+        String hh = "                                    **********★*******🔵******★★**********";
+        String kk = "                                          *********★******************";
+        String ll = "                                         ***🔴*******************🔵******";
+        String mm = "                                     **************★***************★*******";
+        String nn = "                                   🔵****★*********🔵*************★★****🔴*****";
+        String oo = "                                  ****************★**********★★************★*****";
+        String pp = "                                *******★**🔴***************★★******🔵***★**********";
+        String qq = "                            *****★***************★****************************★★*****";
+        String rr = "                          *****★*****🔵******★***********🔴*****★***********🔴**★******";
+        String ss = "                       ***************★*****************************************************";
+        String tt = "                   ***********★*********★*********★************★****************★★**********";
+        String uu = "                                 *************************************************";
+        String vv = "                                 *************************************************";
+
+
+
+        for (int n = 0; n < a.length() ; n++) {
+            System.out.print(a.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n < b.length() ; n++) {
+            System.out.print(b.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n < c.length() ; n++) {
+            System.out.print(c.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n < d.length() ; n++) {
+            System.out.print(d.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n < e.length() ; n++) {
+            System.out.print(e.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
+        for (int n = 0; n < f.length() ; n++) {
+            System.out.print(f.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <g.length() ; n++) {
+            System.out.print(g.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <h.length() ; n++) {
+            System.out.print(h.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n < i.length() ; n++) {
+            System.out.print(i.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <j.length() ; n++) {
+            System.out.print(j.charAt(n));
+            Thread.sleep(10);
+        }
+
+
+        System.out.println();
+        System.out.println();
+        System.out.println();
+
+
+        for (int n = 0; n <k.length() ; n++) {
+            System.out.print(k.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <m.length() ; n++) {
+            System.out.print(m.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n < o.length() ; n++) {
+            System.out.print(o.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <p.length() ; n++) {
+            System.out.print(p.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <q.length() ; n++) {
+            System.out.print(q.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <r.length() ; n++) {
+            System.out.print(r.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <s.length() ; n++) {
+            System.out.print(s.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <t.length() ; n++) {
+            System.out.print(t.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <u.length() ; n++) {
+            System.out.print(u.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <v.length() ; n++) {
+            System.out.print(v.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <w.length() ; n++) {
+            System.out.print(w.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <x.length() ; n++) {
+            System.out.print(x.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <y.length() ; n++) {
+            System.out.print(y.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <z.length() ; n++) {
+            System.out.print(z.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <aa.length() ; n++) {
+            System.out.print(aa.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <bb.length() ; n++) {
+            System.out.print(bb.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <cc.length() ; n++) {
+            System.out.print(cc.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <dd.length() ; n++) {
+            System.out.print(dd.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <ee.length() ; n++) {
+            System.out.print(ee.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <ff.length() ; n++) {
+            System.out.print(ff.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <gg.length() ; n++) {
+            System.out.print(gg.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <hh.length() ; n++) {
+            System.out.print(hh.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <kk.length() ; n++) {
+            System.out.print(kk.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <ll.length() ; n++) {
+            System.out.print(ll.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <mm.length() ; n++) {
+            System.out.print(mm.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <nn.length() ; n++) {
+            System.out.print(nn.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <oo.length() ; n++) {
+            System.out.print(oo.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <pp.length() ; n++) {
+            System.out.print(pp.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <qq.length() ; n++) {
+            System.out.print(qq.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <rr.length() ; n++) {
+            System.out.print(rr.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <ss.length() ; n++) {
+            System.out.print(ss.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <tt.length() ; n++) {
+            System.out.print(tt.charAt(n));
+            Thread.sleep(10);
+        }
+
+        System.out.println();
+        for (int n = 0; n <uu.length() ; n++) {
+            System.out.print(uu.charAt(n));
+            Thread.sleep(10);
+        }
+        System.out.println();
+        for (int n = 0; n <vv.length() ; n++) {
+            System.out.print(vv.charAt(n));
+            Thread.sleep(10);
+        }
+
+        
+    }
+}
